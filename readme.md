@@ -1,5 +1,17 @@
 # Cotton Weed Detection (Kaggle) — YOLO
 
+## Visual Preview
+
+| Sample Detection 1 | Sample Detection 2 |
+| --- | --- |
+| ![Sample Detection 1](images/sample_detection_1.png) | ![Sample Detection 2](images/sample_detection_2.png) |
+
+| Sample Detection 3 | Class Distribution |
+| --- | --- |
+| ![Sample Detection 3](images/sample_detection_3.png) | ![Class Distribution](images/class_distribution.png) |
+
+> Run `visualize.ipynb` whenever you update the dataset to regenerate the assets in `images/`.
+
 A concise project to detect weeds in cotton fields for the Kaggle "Cotton Weed Detection" challenge using a YOLO object‑detection pipeline.
 
 ## Objective
