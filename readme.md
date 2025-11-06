@@ -12,6 +12,7 @@
 
 > Run `visualize.ipynb` whenever you update the dataset to regenerate the assets in `images/`.
 
+
 A concise project to detect weeds in cotton fields for the Kaggle "Cotton Weed Detection" challenge using a YOLO object‑detection pipeline.
 
 ## Objective
